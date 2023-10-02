@@ -40,11 +40,6 @@ export default function CocktailSearchBars( {filterCocktail, onFilterCocktail, f
                             placeholder="Aperol, Vermouth, etc"/>
                 </div>
             </div>
-            <div className="flex flex-wrap place-content-center">
-                <div className={`w-full px-3 mb-6 md:mb-0 ${styles.header}`}>
-                    <button type="button" className={`shadow bg-red-800 hover:bg-red-700 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-8 rounded-full`}>Go</button>
-                </div>
-            </div>
         </form>
     </>
 }
