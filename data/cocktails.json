@@ -167,7 +167,7 @@
         ],
         "accent":[
             {
-                "name":"Cucumbers",
+                "name":"Cucumber",
                 "amount":2,
                 "scale":""
             }
@@ -179,7 +179,7 @@
             }
         ],
         "image":"Archangel_Cocktail.jpeg",
-        "instructions":"In a mixing glass, bruise cucumbers slices with a muddler. Add gin, Aperol, and ice and stir until chilled. Strain into a chilled flute or cocktail glass. Garnish with a lemon peel."
+        "instructions":"In a mixing glass, bruise cucumber slices with a muddler. Add gin, Aperol, and ice and stir until chilled. Strain into a chilled flute or cocktail glass. Garnish with a lemon peel."
     },
     {
         "name":"Pisco Sour",
